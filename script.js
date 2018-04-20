@@ -1,3 +1,6 @@
+/*
+   @https://github.com/jakemadness/animate-numbers
+*/
 var numberFormat = function(number) {
    number = String(number);
    return number.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
