@@ -10,3 +10,5 @@ Animate numbers from 0 to X for a set duration
 ```JS
 new animateNumber('my-number')
 ```
+
+JSFiddle Example: https://jsfiddle.net/ijake/3a8r4vjw/
