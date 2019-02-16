@@ -1,5 +1,5 @@
 # Animate Numbers
-Animate numbers from 0 to X for a set duration
+Animate numbers from 0 to X in Javascript.
 
 ## Example
 **HTML**
