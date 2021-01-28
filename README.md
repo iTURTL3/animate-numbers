@@ -11,4 +11,4 @@ Animate numbers from 0 to X in Javascript.
 new animateNumber('my-number')
 ```
 
-JSFiddle Example: https://jsfiddle.net/iturtle/3a8r4vjw/4/
+JSFiddle Example: https://jsfiddle.net/iturtle/u2fswv2p/8/
